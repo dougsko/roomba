@@ -1,6 +1,6 @@
 = roomba
 
-Description goes here.
+Library to control a Roomba.
 
 == Note on Patches/Pull Requests
  
@@ -15,4 +15,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Doug P.. See LICENSE for details.
+Copyright (c) 2010 Doug P. See LICENSE for details.
