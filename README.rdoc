@@ -2,6 +2,9 @@
 
 Library to control a Roomba.
 
+This code wraps the library found here:
+  http://roombahacking.com/roombahacks/roombacmd/
+
 == Note on Patches/Pull Requests
  
 * Fork the project.
