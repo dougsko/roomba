@@ -39,7 +39,9 @@ valid(VALUE self)
     return INT2NUM(roomba_valid(roomba));
 }
 
-static VALUE get_portpath(VALUE self){
+static VALUE 
+get_portpath(VALUE self)
+{
     struct Roomba *roomba;
 
     Data_Get_Struct(self, struct Roomba, roomba);
